@@ -1,0 +1,3 @@
+[build]
+command = "npm install && npm start"
+publish = "public"  # Adjust if your public directory is different
